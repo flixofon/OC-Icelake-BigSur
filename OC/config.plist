@@ -816,16 +816,16 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D60BVML7H</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>7F635558-2C2F-4551-BC33-41E2A313CB73</string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02032404CD0000FB</string>
+			<string></string>
 			<key>ROM</key>
 			<data>RetdE8tz</data>
 			<key>SpoofVendor</key>
@@ -833,9 +833,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D60BVML7H</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>7F635558-2C2F-4551-BC33-41E2A313CB73</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
